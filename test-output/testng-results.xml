@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11438" started-at="2017-05-22T08:52:16Z" finished-at="2017-05-22T08:52:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11438" started-at="2017-05-22T08:52:16Z" finished-at="2017-05-22T08:52:27Z">
+      <class name="rozetka.RozetkaPageObject">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:rozetka.RozetkaPageObject@56ac3a89]" name="beforeClass" is-config="true" duration-ms="7151" started-at="2017-05-22T11:52:16Z" finished-at="2017-05-22T11:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="before()[pri:0, instance:rozetka.RozetkaPageObject@56ac3a89]" name="before" is-config="true" duration-ms="2" started-at="2017-05-22T11:52:23Z" finished-at="2017-05-22T11:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:rozetka.RozetkaPageObject@56ac3a89]" name="testHomePage" duration-ms="1518" started-at="2017-05-22T11:52:23Z" finished-at="2017-05-22T11:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="testSearch()[pri:0, instance:rozetka.RozetkaPageObject@56ac3a89]" name="testSearch" duration-ms="1843" started-at="2017-05-22T11:52:25Z" finished-at="2017-05-22T11:52:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:rozetka.RozetkaPageObject@56ac3a89]" name="afterClass" is-config="true" duration-ms="898" started-at="2017-05-22T11:52:27Z" finished-at="2017-05-22T11:52:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- rozetka.RozetkaPageObject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
