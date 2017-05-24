@@ -11,7 +11,6 @@ import org.testng.annotations.BeforeClass;
 
 public class BaseTest {
 	WebDriver driver;
-	//coment
 	  @BeforeClass
 	  public void beforeClass() {
 		  driver = new ChromeDriver();
